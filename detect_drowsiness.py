@@ -27,6 +27,8 @@ def systum():
 
     while True:
         _, frame = cap.read()
+        if not _:
+            break
         height = frame.shape[0]
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         faces = face_cascade.detectMultiScale(gray, 1.3, 5)
