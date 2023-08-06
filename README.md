@@ -16,3 +16,6 @@ The main features of the Drowsiness Detector include:
 Real-time video stream from the camera.
 Drowsiness detection algorithm to analyze eye activity and detect drowsiness.
 Streamlit web application for easy interaction and deployment.
+
+
+<img width="1041" alt="Screenshot 2023-08-06 at 10 50 32 PM" src="https://github.com/sakshamminglani/DrowsinessDriver/assets/91822646/90ab0d0d-18c1-4e9e-b7c1-58e50068741d">
